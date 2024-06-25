@@ -1,5 +1,4 @@
 
-```markdown
 # PaintJS Drawing Application
 
 A simple web-based drawing application using vanilla JavaScript, HTML, and CSS.
@@ -48,4 +47,4 @@ PaintJS is a basic drawing application that allows users to draw on a canvas, ch
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-```
+
